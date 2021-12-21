@@ -1,0 +1,37 @@
+h1{
+    font-size:72px;
+}
+.segundo { 
+    font-style: italic;
+    color:  white;
+}  
+.tercero {
+    color: wheat;
+    font-style: initial;
+}
+.cuarto {
+    color: lightsalmon;
+}
+
+.quinto {
+    color: white;
+    font-style: italic;
+}
+.sexto {
+    color: lightsalmon;
+}
+.septimo {
+    color: red;
+    font-style: inherit;
+    
+}
+.octavo {
+    color: khaki;
+}
+.noveno{
+    color: red;
+}
+
+body{
+    background: green;
+}

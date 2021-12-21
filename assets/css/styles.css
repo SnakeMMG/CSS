@@ -1,0 +1,39 @@
+
+/*comentarios en css*/
+.encabezado {
+   /*font-size: cambia el tipo de fuente, px hace referencia al tipo de pixeles, 72px las unidades de medida van juntas, 
+    medidadas comunes px, %, em, rem*/
+    font-size: 72px;
+    /*cambia el color de la letra*/
+    color: blue;
+    /*background-color es para color de fondo*/            
+    background-color: #ff1500;
+    /*text-align: nos permite alinear el texto*/
+    text-align: center;
+    
+    text-transform: lowercase;
+}
+body {
+    background-color: aquamarine;
+}
+#texto{
+    color: blue;
+    background: brown;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.texto {
+    color: white;
+    background-color: teal;
+}
+p {
+    color:white; background-color:gray;
+}
+p {
+    color: yellow;
+    background-color: black;
+
+}
+ 
+
