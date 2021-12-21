@@ -1,0 +1,51 @@
+body{
+    background-color: cadetblue;
+}
+.caja{
+  
+    width: 1000px;
+    height: 50px;
+    margin: 50px;
+    margin-left: 400px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+.caja{
+    border: 15PX solid black;
+    background-color: white;
+}
+.cajauno{
+    border: 15PX solid orange;
+    background-color: red;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-right: 900px;
+    color: white;
+    
+}
+.cajados{
+    border: 15PX solid rgb(124, 83, 8);
+    background-color: rgb(199, 149, 40);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 1000px;
+    color: white;
+}
+.cajatres{
+    border: 5px dashed rgb(28, 147, 194);  
+    background-color: blue;
+    margin-right: 450px;
+    margin-left: 450px;
+    color: white;
+
+}
+.cajacuatro{
+    border: 15PX solid orange;
+    background-color: red;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-right: 900px;
+    color: white;
+}

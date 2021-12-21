@@ -1,0 +1,36 @@
+body{
+    /*background-image: url(https://media.istockphoto.com/vectors/black-hexagon-pattern-background-vector-image-vector-id931627678);*/
+    /*background-repeat: no-repeat;hace que no se repita la imagen utilizada
+    background-size: cover; estita la imagen para que se vea en todo el fondo de la pagina
+    background-image: url(../img/fondo.jpg);*/
+}
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitle{
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.caja{
+    width: 300px;
+    height: 300px;
+    margin: 100px; /* es un margen externo*/
+    /*margin-bottom: 20px;  asi colocamos margenes de forma interior */
+    font-size: 50px;
+    padding: 20px; /* es un margen interno */
+    /* padding-left: 50; se puede agragar pixeles solo a un lado */
+    border-radius: 10px;
+}
+.rojo{
+    /* background-color: red; */
+      border: 5PX solid red;
+}
+.verde{
+  /* background-color: green; */
+  border: 5PX solid green;
+  /* border-top: 2px double blue; se puede colocar el borde en algun lugar especifico en donde queramos */
+}
+.azul{
+    /* background-color: blue; */
+    border: 5PX solid blue; /*envuelve el elemento */
+}
