@@ -1,0 +1,38 @@
+body{
+    background-color: lightgray;
+}
+.contenedor{
+    display: flex;
+    height: 600px;
+    border: 1px solid purple;
+    justify-content: center; /* sirve para centrar elementos */
+    justify-content: space-around; /* nos da un espacio a la isquierda y uno a la derecha */
+    /*justify-content: space-between; nos da espacio entre elementos */
+    /*justify-content: space-evenly;  nos da un espacio equitativo entre elementos */
+    /*align-items: center;  centra los elenetos de forma vertical */
+    /*align-items: flex-end; alinea los elementos al final*/
+    justify-self: start;
+    flex-wrap: wrap; /*apila los elementos mientras te se valla reduciendo el espacio */
+
+}
+.caja {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+}
+.rojo{
+    background-color: red;
+    
+}
+
+.verde{
+    background-color: green;
+    /* align-self: center; */
+}
+.azul{
+    background-color: blue;
+    /* align-self: flex-end; */
+}
+.amarillo{
+    background-color: yellow;
+}
